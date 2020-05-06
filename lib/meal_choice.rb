@@ -4,8 +4,8 @@
 def meal_choice (veg1, veg2, protein="tofu")
  puts "What a nutritious meal!"
 return "A plate of #{protein} with #{veg1} and #{veg2}."
+p "what a nutritious meal!"
 p meal_choice
-puts "what a nutritious meal!"
 end
 
 
